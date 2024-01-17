@@ -26,9 +26,9 @@ Buttons:
 - Play Intro (only shows for you)
 
 # How to use
-Download the latest release from the releases tab and then using SharpMonoInjector, inject the dll into the game.
-You can find SharpMonoInjector here:
-(im too lazy ill put it later)
+Download the latest release from the releases tab and then using [SharpMonoInjector](https://github.com/notpoiu/Client.cs/raw/main/SharpMonoInjector.zip), inject the dll into the game.
+![image](https://github.com/notpoiu/Client.cs/assets/75510171/850c3480-27c6-408f-935b-8faabe1400c2)
+
 
 # Special Thanks
 - Deivid for helping me for a little bit
